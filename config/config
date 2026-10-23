@@ -25,7 +25,7 @@ custom=true
 gki-android12-5.10=4003ecf2d01c
 gki-android13-5.15=65ea8683c794
 gki-android14-6.1=52eaf3b8fa50
-gki-android15-6.6=a8c720c42ca4
+gki-android15-6.6=532d211dac7f6853c58ea8829b94fa3e52b5ca1e
 gki-android16-6.12=72bdce7ce2de
 
 # ==================== 官方版 KernelSU 的版本 ====================
